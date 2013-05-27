@@ -1,0 +1,19 @@
+{
+  "name": "detector",
+  "version": "1.0.0",
+  "description": "User Agent Detector.",
+  "main": "src/detector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hotoo/node-detector.git"
+  },
+  "keywords": [
+    "Detector",
+    "UserAgent"
+  ],
+  "author": "闲耘<hotoo.cn@gmail.com>",
+  "license": "MIT"
+}
