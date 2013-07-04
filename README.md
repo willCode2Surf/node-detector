@@ -59,7 +59,7 @@ detector 是根据 UserAgent 信息识别客户端的模块，可以用于在服
 
 ```js
 var detector = require("detector");
-var ua = response.getHeader('user-agent');
+var ua = req.headers['user-agent'];
 console.log(detector.parse(ua));
 ```
 
